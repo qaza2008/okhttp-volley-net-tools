@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Net</string>
+    <!--夺宝相关结束-->
+    <string name="loading_bar_text">请求加载中...</string>
+</resources>

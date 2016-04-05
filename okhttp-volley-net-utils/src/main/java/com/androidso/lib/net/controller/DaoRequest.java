@@ -313,7 +313,6 @@ public class DaoRequest {
     //支持多线程 和断点续传
     public static void download(Context context, final String url, final FileCallBack fileCallBack, final boolean mulThreadFlag, final int mulThreadCount) {
 
-
         final OkHttpClient client = new OkHttpClient();
         Request.Builder builder;
         try {
